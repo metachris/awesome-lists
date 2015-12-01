@@ -1,9 +1,12 @@
 Know-How & Posts
 ----------------
 
-* [Linux Performance Analysis in 60,000 Milliseconds](http://techblog.netflix.com/2015/11/linux-performance-analysis-in-60s.html)
-System Monitoring Tools by Netflix
+* [Linux Performance Analysis in 60,000 Milliseconds](https://media.netflix.com/en/tech-blog/linux-performance-analysis-in-60-000-milliseconds) ([HN](https://news.ycombinator.com/item?id=10654681))
+* [Linux Performance Articles by Brendan Gregg](http://www.brendangregg.com/linuxperf.html)
+  * [Use Method](http://www.brendangregg.com/usemethod.html) - Utilization Saturation and Errors, a methodology for analyzing the performance of any system
+  * [The TSA Method](http://www.brendangregg.com/tsamethod.html) - Thread State Analysis, for identifying issues causing poor thread performance
 * [Netflix at Velocity 2015: Linux Performance Tools](http://techblog.netflix.com/2015/08/netflix-at-velocity-2015-linux.html) [Videos]
+
 
 System Monitoring, Tools
 ------------------------
