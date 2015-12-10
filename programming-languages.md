@@ -1,8 +1,9 @@
 Languages
 ---------
 
-* http://nim-lang.org/
-
+* [nim](http://nim-lang.org)
+* PHP
+  * [phptherightway.com](http://www.phptherightway.com/)
 
 Algorithms
 ----------
