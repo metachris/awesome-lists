@@ -1,4 +1,5 @@
 * [HN Startup Playbook](https://news.ycombinator.com/item?id=10514729)
+* [The Content Marketing Handbook (priceonomics.com)](http://priceonomics.com/the-content-marketing-handbook/) ([HN](https://news.ycombinator.com/item?id=10706228))
 
 Posts about product launches
 
