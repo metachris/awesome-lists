@@ -1,6 +1,7 @@
 Awesome Javascript Tools and Know-How
 =====================================
 
+* [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 
 Collections
 -----------
